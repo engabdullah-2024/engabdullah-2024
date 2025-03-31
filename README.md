@@ -1,4 +1,4 @@
-# 👋 Hi, I’m @engabdullah-2024
+# 👋 Hi, I’m Eng Abdullah
 
 ## 👀 I’m interested in:
 - Full-stack web development
