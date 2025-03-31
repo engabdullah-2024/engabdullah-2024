@@ -16,7 +16,7 @@
 - Open-source contributions
 
 ## 📫 How to reach me:
-- Email: engabdullah@example.com
+- Email: engabdullah@gmail.com
 - LinkedIn: [@engabdullah](https://www.linkedin.com/in/engabdullah)
 - GitHub: [@engabdullah-2024](https://github.com/engabdullah-2024)
 
