@@ -1,19 +1,19 @@
 <!-- PROFILE HEADER -->
 <h1 align="center">Hi 👋, I'm Eng Abdullah</h1>
-<h3 align="center">💻 Full-Stack Web Developer | 📱 Mobile Developer | 🧠 Tech Explorer</h3>
+<h3 align="center">💻 Full-Stack Web Developer | 🧠 Tech Explorer</h3>
 
 <!-- TYPING SVG -->
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&color=6C63FF&center=true&vCenter=true&width=440&lines=Welcome+to+my+GitHub!;I'm+a+MERN+%2B+Mobile+Dev;Let's+build+cool+stuff+together!+🚀" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&color=6C63FF&center=true&vCenter=true&width=440&lines=Welcome+to+my+GitHub!;I'm+a+MERN+Stack+Developer;Let's+build+cool+stuff+together!+🚀" alt="Typing SVG" />
 </p>
 
 ---
 
 ### 🚀 About Me
 
-- 🔭 I’m focused on building **scalable full-stack** and **mobile applications**
-- ⚛️ Currently learning **Advanced React, Express.js, Flutter**
-- 🤝 Love **collaborating** on real-world & open source projects
+- 🔭 I’m focused on building **scalable full-stack web applications**  
+- ⚛️ Currently learning **Advanced React, Express.js**  
+- 🤝 Love **collaborating** on real-world & open source projects  
 - 🕹 Coding is my superpower. Clean code is my weapon.
 
 ---
@@ -26,7 +26,6 @@
 ![React](https://img.shields.io/badge/-React-20232A?style=for-the-badge&logo=react)
 ![Node.js](https://img.shields.io/badge/-Node.js-339933?style=for-the-badge&logo=nodedotjs)
 ![Express](https://img.shields.io/badge/-Express-000000?style=for-the-badge&logo=express)
-![Flutter](https://img.shields.io/badge/-Flutter-02569B?style=for-the-badge&logo=flutter)
 ![MongoDB](https://img.shields.io/badge/-MongoDB-4DB33D?style=for-the-badge&logo=mongodb)
 ![TailwindCSS](https://img.shields.io/badge/-Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css)
 
@@ -40,16 +39,16 @@
 ---
 
 ### 📚 Currently Learning
-- 🌐 **React Native & Flutter** for mobile apps  
-- ⚙️ **Authentication, JWT, Firebase Auth**
-- 🧠 Writing testable, scalable code
+- 🌐 **Advanced React & React Hooks**  
+- ⚙️ **Node.js + Express (Backend APIs)**  
+- 🔐 Authentication & Security best practices
 
 ---
 
 ### 💡 I’m Open to Collaborate On
-- MERN stack projects with a mobile-first mindset  
+- MERN stack projects  
 - Open-source contributions  
-- Clean & modern UI/UX driven applications  
+- Clean & modern UI/UX driven web applications  
 
 ---
 
