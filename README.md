@@ -1,20 +1,20 @@
-
 <!-- PROFILE HEADER -->
 <h1 align="center">Hi 👋, I'm Eng Abdullah</h1>
-<h3 align="center">💻 Full-Stack Web Developer | 🧠 Tech Explorer</h3>
+<h3 align="center">💻 Full-Stack Web Developer | 🧠 Tech Explorer | 🌍 Lifelong Learner</h3>
 
 <!-- TYPING SVG -->
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&color=6C63FF&center=true&vCenter=true&width=440&lines=Welcome+to+my+GitHub!;I'm+a+MERN+Stack+Developer;Let's+build+cool+stuff+together!+🚀" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&color=6C63FF&center=true&vCenter=true&width=500&lines=Welcome+to+my+GitHub!;I'm+a+MERN+Stack+Developer;Let's+build+cool+stuff+together!+🚀" alt="Typing SVG" />
 </p>
 
 ---
 
 ### 🚀 About Me
 
-- 🔭 I’m focused on building **scalable full-stack web applications**  
-- ⚛️ Currently learning **Advanced React, Express.js**  
-- 🤝 Love **collaborating** on real-world & open source projects  
+- 🔭 Focused on building **scalable full-stack web applications**  
+- ⚛️ Currently exploring **Advanced React, Express.js & Clean Architecture**  
+- 🤝 Enjoy **collaborating** on open source and real-world projects  
+- 🧠 Passionate about **learning, teaching, and sharing knowledge**  
 - 🕹 Coding is my superpower. Clean code is my weapon.
 
 ---
@@ -40,16 +40,27 @@
 ---
 
 ### 📚 Currently Learning
-- 🌐 **Advanced React & React Hooks**  
-- ⚙️ **Node.js + Express (Backend APIs)**  
-- 🔐 Authentication & Security best practices
+- 🌐 **Advanced React & Hooks**  
+- ⚙️ **Node.js + Express for Backend APIs**  
+- 🔐 **Security Best Practices & Auth Workflows**  
+- ☁️ **Deployment with Vercel, Netlify, MongoDB Atlas**
+
+---
+
+### 💼 Featured Projects
+
+| Project | Description | Tech |
+|--------|-------------|------|
+| [Register4Assembly](https://github.com/engabdullah-2024/Register4Assembly) | MERN project for managing student assembly registrations | React, Node.js, MongoDB |
+| [EduPDF Portal](https://github.com/engabdullah-2024/EduPDF-Portal) | Grade 12 PDF resource sharing platform | Tailwind, JS, MongoDB |
+| [Age Calculator](https://github.com/engabdullah-2024/Age-Calculator) | React-based age calculator app | React, Tailwind |
 
 ---
 
 ### 💡 I’m Open to Collaborate On
-- MERN stack projects  
-- Open-source contributions  
-- Clean & modern UI/UX driven web applications  
+- 🛠 Full-stack MERN projects  
+- 🤝 Open-source contributions  
+- 🎨 Clean & modern UI/UX driven applications  
 
 ---
 
@@ -82,15 +93,22 @@
 
 ---
 
+### 📈 Visitor Count
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=engabdullah-2024&label=Profile+Views&color=6C63FF&style=flat" alt="profile views" />
+</p>
+
+---
+
 ### 😄 Pronouns
 **He / Him**
 
 ---
 
 ### ⚡ Fun Fact
-I debug bugs better when I’ve had coffee ☕  
-I write code like poetry — clean, functional, and a little dramatic 🎭
+I debug better with coffee ☕  
+And write code like poetry — clean, functional, and slightly dramatic 🎭
 
 ---
 
-> ✨ *Thanks for stopping by. Let’s build something awesome together!*
+> ✨ *Thanks for stopping by. Let’s build something awesome together!*  
