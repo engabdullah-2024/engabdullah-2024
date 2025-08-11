@@ -1,4 +1,3 @@
-
 <!-- PROFILE HEADER -->
 <h1 align="center">Hi 👋, I'm Eng Abdullah</h1>
 <h3 align="center">💻 Full-Stack Web Developer | 🧠 Tech Explorer</h3>
@@ -13,7 +12,7 @@
 ### 🚀 About Me
 
 - 🔭 I’m focused on building **scalable full-stack web applications**  
-- ⚛️ Currently learning **Advanced React, Express.js**  
+- ⚛️ Currently learning **Advanced React, Express.js, Next.js**  
 - 🤝 Love **collaborating** on real-world & open source projects  
 - 🕹 Coding is my superpower. Clean code is my weapon.
 
@@ -25,6 +24,7 @@
 ![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=for-the-badge&logo=javascript)
 ![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?style=for-the-badge&logo=typescript)
 ![React](https://img.shields.io/badge/-React-20232A?style=for-the-badge&logo=react)
+![Next.js](https://img.shields.io/badge/-Next.js-000000?style=for-the-badge&logo=nextdotjs)
 ![Node.js](https://img.shields.io/badge/-Node.js-339933?style=for-the-badge&logo=nodedotjs)
 ![Express](https://img.shields.io/badge/-Express-000000?style=for-the-badge&logo=express)
 ![MongoDB](https://img.shields.io/badge/-MongoDB-4DB33D?style=for-the-badge&logo=mongodb)
@@ -42,7 +42,8 @@
 ### 📚 Currently Learning
 - 🌐 **Advanced React & React Hooks**  
 - ⚙️ **Node.js + Express (Backend APIs)**  
-- 🔐 Authentication & Security best practices
+- 🔐 Authentication & Security best practices  
+- 🚀 **Next.js for full-stack React applications**
 
 ---
 
