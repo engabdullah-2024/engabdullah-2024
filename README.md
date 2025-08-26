@@ -1,24 +1,23 @@
 <!-- PROFILE HEADER -->
-<h1 align="center">Hi 👋, I'm Eng Abdullah</h1>
-<h3 align="center">💻 Full-Stack Web Developer | 🧠 Tech Explorer</h3>
+<h1 align="center">👋 Hi, I'm Eng Abdullah</h1>
+<h3 align="center">💻 Full-Stack Web Developer | 🚀 Problem Solver | 🧠 Tech Explorer</h3>
 
 <!-- TYPING SVG -->
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&color=6C63FF&center=true&vCenter=true&width=440&lines=Welcome+to+my+GitHub!;I'm+a+MERN+Stack+Developer;Let's+build+cool+stuff+together!+🚀" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&color=6C63FF&center=true&vCenter=true&width=500&lines=Welcome+to+my+GitHub!;MERN+Stack+Developer;Clean+Code+Advocate;Let's+build+impactful+projects!+🔥" alt="Typing SVG" />
 </p>
 
 ---
 
-### 🚀 About Me
-
-- 🔭 I’m focused on building **scalable full-stack web applications**  
-- ⚛️ Currently learning **Advanced React, Express.js, Next.js**  
-- 🤝 Love **collaborating** on real-world & open source projects  
-- 🕹 Coding is my superpower. Clean code is my weapon.
+## 🚀 About Me
+- 🔭 Passionate about **building scalable full-stack web applications**  
+- ⚛️ Diving deeper into **Advanced React, Next.js & modern backend systems**  
+- 🤝 Always open to **collaborating on impactful open-source projects**  
+- 🕹 Coding is my **superpower**, and clean code is my **weapon of choice**  
 
 ---
 
-### 🛠️ Tech Stack
+## 🛠️ Tech Stack
 
 #### 👨‍💻 Languages & Frameworks
 ![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=for-the-badge&logo=javascript)
@@ -39,23 +38,22 @@
 
 ---
 
-### 📚 Currently Learning
-- 🌐 **Advanced React & React Hooks**  
-- ⚙️ **Node.js + Express (Backend APIs)**  
-- 🔐 Authentication & Security best practices  
-- 🚀 **Next.js for full-stack React applications**
+## 📚 Currently Exploring
+- 🌐 **Advanced React Patterns & Performance Optimization**  
+- ⚙️ **Backend APIs with Node.js & Express**  
+- 🔐 Security & Authentication best practices (JWT, OAuth)  
+- 🚀 **Next.js Full-Stack Applications**  
 
 ---
 
-### 💡 I’m Open to Collaborate On
-- MERN stack projects  
-- Open-source contributions  
-- Clean & modern UI/UX driven web applications  
+## 🤝 Open to Collaborate On
+- MERN Stack projects  
+- Open-source initiatives  
+- Clean & modern UI/UX-driven web applications  
 
 ---
 
-### 📫 Connect With Me
-
+## 📫 Connect With Me
 <p>
   <a href="mailto:engabdullah@gmail.com"><img src="https://img.shields.io/badge/-Email-D14836?style=flat-square&logo=Gmail&logoColor=white" /></a>
   <a href="https://www.linkedin.com/in/engabdullah"><img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=flat-square&logo=Linkedin&logoColor=white" /></a>
@@ -64,8 +62,7 @@
 
 ---
 
-### 🧾 GitHub Stats
-
+## 📊 GitHub Stats
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=engabdullah-2024&show_icons=true&theme=radical" width="47%" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=engabdullah-2024&layout=compact&theme=radical" width="47%" />
@@ -73,8 +70,7 @@
 
 ---
 
-### 🔥 GitHub Streak & Trophies
-
+## 🔥 Streak & Trophies
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=engabdullah-2024&theme=radical" />
   <br/>
@@ -83,15 +79,15 @@
 
 ---
 
-### 😄 Pronouns
+## 😄 Pronouns
 **He / Him**
 
 ---
 
-### ⚡ Fun Fact
-I debug bugs better when I’ve had coffee ☕  
-I write code like poetry — clean, functional, and a little dramatic 🎭
+## ⚡ Fun Facts
+- ☕ Debugging works better after coffee  
+- 🎭 I write code like poetry — clean, functional, and sometimes dramatic  
 
 ---
 
-> ✨ *Thanks for stopping by. Let’s build something awesome together!*
+> ✨ *Thanks for visiting! Let’s collaborate and build something awesome together.* 🚀
