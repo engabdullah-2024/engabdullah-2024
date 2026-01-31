@@ -2,6 +2,11 @@
 <h1 align="center">👋 Hi, I'm Eng Abdullah</h1>
 <h3 align="center">💻 Full-Stack Web Developer | 🚀 Problem Solver | 🧠 Tech Explorer</h3>
 
+<!-- PROFILE VIEWS -->
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=engabdullah-2024&label=Profile%20Views&color=6C63FF&style=for-the-badge" alt="Profile Views" />
+</p>
+
 <!-- TYPING SVG -->
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&color=6C63FF&center=true&vCenter=true&width=500&lines=Welcome+to+my+GitHub!;MERN+Stack+Developer;Clean+Code+Advocate;Let's+build+impactful+projects!+🔥" alt="Typing SVG" />
