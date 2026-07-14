@@ -1,5 +1,5 @@
 <h1 align="center">👋 I'm Eng Abdullah</h1>
-<h3 align="center">Senior Software Engineer | System Architect | Open Source Contributor</h3>
+<h3 align="center"> Software Engineer | System Architect | Open Source Contributor</h3>
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=engabdullah-2024&label=Profile%20Views&color=6C63FF&style=for-the-badge&unique=true" alt="Profile Views" />
