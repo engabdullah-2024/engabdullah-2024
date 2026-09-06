@@ -1,52 +1,89 @@
-<h1 align="center">👋 I'm Eng. Abdullah</h1>
+<div align="center">
+
+# 👋 Eng. Abdullah
+
+### Software Engineer · System Architect · Builder
+
+**I design and build scalable digital products that solve real problems.**
+
+<br/>
+
+<img src="https://komarev.com/ghpvc/?username=engabdullah-2024&style=flat-square&color=6C63FF&label=PROFILE+VIEWS" />
+&nbsp;
+<img src="https://img.shields.io/github/followers/engabdullah-2024?style=flat-square&color=6C63FF&label=FOLLOWERS" />
+&nbsp;
+<img src="https://img.shields.io/github/stars/engabdullah-2024?style=flat-square&color=6C63FF&label=STARS" />
+
+</div>
+
+---
+
+## `01` — About
+
+```ts
+const abdullah = {
+  role: "Software Engineer",
+  focus: ["Scalable Systems", "Full-Stack Engineering", "AI"],
+  mindset: "Build > Talk",
+  currently: "Learning, shipping & improving"
+};
+```
+
+I care about **clean architecture, performance, security, and products people actually use.**
+
+---
+
+## `02` — Stack
 
 <p align="center">
-  <strong>Software Engineer · System Architect · Open Source Contributor</strong>
-</p>
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=engabdullah-2024&label=Profile%20Views&color=6C63FF&style=for-the-badge" />
-  <img src="https://img.shields.io/github/contributors/engabdullah-2024/ttmchange?style=for-the-badge&label=Contributors" />
-</p>
+<img src="https://skillicons.dev/icons?i=nextjs,react,ts,nodejs,postgres,prisma,redis,docker,aws,git,github,tailwind&perline=6" />
 
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=20&pause=1000&color=6C63FF&center=true&vCenter=true&width=650&lines=Building+Scalable+Digital+Products;Full-Stack+%26+System+Architecture;Performance+%26+Security+Engineering;Turning+Ideas+Into+Production+Systems" />
 </p>
 
 ---
 
-## 🚀 About Me
+## `03` — Engineering
 
-Software Engineer focused on **scalable systems, modern web architecture, and high-impact products**.
+* 🏗️ **System Architecture** — scalable APIs, databases & application design
+* ⚡ **Performance** — fast, reliable and production-ready applications
+* 🔐 **Security** — secure authentication, APIs & infrastructure
+* 🚀 **DevOps** — CI/CD, Docker, cloud & deployment
+* 🤝 **Open Source** — building and contributing to developer ecosystems
 
-* 🏗️ Designing production-ready full-stack systems
-* ⚡ Performance, scalability & reliability
-* 🔐 Security-first engineering
-* 🤝 Open source & developer collaboration
-* 🧠 Exploring AI, distributed systems & system design
+---
 
-## 🛠️ Tech Stack
+## `04` — Building
 
-**Frontend:** Next.js · React · TypeScript · Tailwind CSS
-**Backend:** Node.js · PostgreSQL · Prisma · Redis
-**Infrastructure:** Docker · AWS · Vercel · Cloudflare · GitHub Actions
-**Engineering:** System Design · REST APIs · CI/CD · Testing · Security
+> Turning ideas into products — from **0 → production**.
 
-## 📊 GitHub
+**Currently exploring**
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=engabdullah-2024&show_icons=true&theme=radical&rank_icon=github" width="48%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=engabdullah-2024&layout=compact&theme=radical" width="48%" />
-</p>
+`AI/ML` · `Distributed Systems` · `System Design` · `Cloud Architecture`
 
-## 🌍 Connect
+---
 
-<p>
-  <a href="mailto:engabdullah@gmail.com">Email</a> ·
-  <a href="https://www.linkedin.com/in/engabdullah">LinkedIn</a> ·
-  <a href="https://github.com/engabdullah-2024">GitHub</a>
-</p>
+## `05` — GitHub
 
-<p align="center">
-  <i>Build. Scale. Improve. Repeat. 🚀</i>
-</p>
+<div align="center">
+
+<img src="https://github-readme-stats.vercel.app/api?username=engabdullah-2024&show_icons=true&hide_border=true&theme=transparent&rank_icon=github" width="48%" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=engabdullah-2024&layout=compact&hide_border=true&theme=transparent" width="48%" />
+
+</div>
+
+---
+
+<div align="center">
+
+### 🌍 Let's build something meaningful.
+
+<a href="https://github.com/engabdullah-2024">GitHub</a>
+  ·   <a href="https://www.linkedin.com/in/engabdullah">LinkedIn</a>
+  ·   <a href="mailto:engabdullah@gmail.com">Email</a>
+
+<br/><br/>
+
+**`Build. Ship. Scale. Repeat.`**
+
+</div>
