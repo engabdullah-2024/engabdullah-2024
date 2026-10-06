@@ -55,6 +55,14 @@ const abdalla = {
 ### 📈 Contributions · 2024 → today
 
 <p align="center">
+  <img src="https://img.shields.io/badge/2024-220_contributions-555555?style=for-the-badge&labelColor=000000" />
+  <img src="https://img.shields.io/badge/2025-218_contributions-555555?style=for-the-badge&labelColor=000000" />
+  <img src="https://img.shields.io/badge/2026-795_contributions-555555?style=for-the-badge&labelColor=000000" />
+  <br/>
+  <img src="https://img.shields.io/badge/Total_2024%E2%80%932026-1%2C233_contributions-000000?style=for-the-badge&labelColor=333333" />
+</p>
+
+<p align="center">
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://streak-stats.demolab.com?user=engabdullah-2024&starting_year=2024&theme=dark&hide_border=true&background=0D1117&ring=FFFFFF&fire=FFFFFF&currStreakLabel=FFFFFF" />
     <img src="https://streak-stats.demolab.com?user=engabdullah-2024&starting_year=2024&theme=default&hide_border=true&ring=000000&fire=000000&currStreakLabel=000000" alt="Total contributions since 2024" />
