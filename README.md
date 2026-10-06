@@ -1,5 +1,6 @@
 <!-- Header -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:000000,100:3a3a3a&height=180&section=header&text=Abdalla%20Ali&fontSize=48&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Co-Founder%20%26%20CTO%20%40%20TTMCHANGE&descAlignY=58&descSize=16" width="100%" />
+<h1 align="center">Hi 👋🏽, I'm Abdalla Ali</h1>
+<h3 align="center">Co-Founder & CTO @ TTMCHANGE · Full-Stack Developer</h3>
 
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=20&pause=1200&color=8B8B8B&center=true&vCenter=true&width=620&lines=Full-stack+developer+from+Mogadishu+%F0%9F%87%B8%F0%9F%87%B4;Building+SaaS+for+East+Africa;Next.js+%C2%B7+TypeScript+%C2%B7+Node.js+%C2%B7+MongoDB;Software+Engineering+student" alt="Typing intro" />
@@ -16,17 +17,12 @@
 
 ### 🧑🏽‍💻 About me
 
-```ts
-const abdalla = {
-  role:      "Co-Founder & CTO",
-  company:   "TTMCHANGE — SaaS for the East African market",
-  base:      "Mogadishu, Somalia",
-  studying:  "B.Sc. Software Engineering",
-  coding:    "since Grade 11 (MERN bootcamp)",
-  focus:     ["SaaS products", "system design", "clean UI"],
-  learning:  ["AI / ML", "cybersecurity", "cloud & DevOps"],
-};
-```
+- 🏢 **Co-Founder & CTO** at **TTMCHANGE**, building SaaS products for the East African market
+- 📍 Based in **Mogadishu, Somalia**
+- 🎓 Studying **B.Sc. Software Engineering**
+- 💻 Coding since **Grade 11**, starting with a MERN stack bootcamp
+- 🎯 Focused on **SaaS products, system design and clean UI**
+- 🌱 Currently learning **AI / ML, cybersecurity, and cloud & DevOps**
 
 ---
 
@@ -64,13 +60,6 @@ const abdalla = {
 
 <p align="center">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://streak-stats.demolab.com?user=engabdullah-2024&starting_year=2024&theme=dark&hide_border=true&background=0D1117&ring=FFFFFF&fire=FFFFFF&currStreakLabel=FFFFFF" />
-    <img src="https://streak-stats.demolab.com?user=engabdullah-2024&starting_year=2024&theme=default&hide_border=true&ring=000000&fire=000000&currStreakLabel=000000" alt="Total contributions since 2024" />
-  </picture>
-</p>
-
-<p align="center">
-  <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api?username=engabdullah-2024&show_icons=true&include_all_commits=true&count_private=true&hide_border=true&theme=dark&bg_color=0D1117&icon_color=FFFFFF&title_color=FFFFFF" />
     <img height="170" src="https://github-readme-stats.vercel.app/api?username=engabdullah-2024&show_icons=true&include_all_commits=true&count_private=true&hide_border=true&icon_color=000000&title_color=000000" />
   </picture>
@@ -89,5 +78,3 @@ const abdalla = {
 ### 🎯 Goal
 
 > Become one of Somalia's top engineers — and help push the country forward in **AI, machine learning and cybersecurity**.
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:3a3a3a,100:000000&height=100&section=footer" width="100%" />
