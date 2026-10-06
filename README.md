@@ -7,7 +7,7 @@
 </p>
 
 <p align="center">
-  <a href="https://abdalla.blog"><img src="https://img.shields.io/badge/abdalla.tech-000000?style=for-the-badge&logo=googlechrome&logoColor=white" /></a>
+  <a href="https://abdalla.blog"><img src="https://img.shields.io/badge/abdalla.blog-000000?style=for-the-badge&logo=googlechrome&logoColor=white" /></a>
   <a href="mailto:engabdullah@gmail.com"><img src="https://img.shields.io/badge/Email-000000?style=for-the-badge&logo=gmail&logoColor=white" /></a>
   <a href="https://www.linkedin.com/in/engabdullah"><img src="https://img.shields.io/badge/LinkedIn-000000?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
   <img src="https://komarev.com/ghpvc/?username=engabdullah-2024&label=Views&color=000000&style=for-the-badge" />
