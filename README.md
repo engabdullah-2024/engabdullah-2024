@@ -1,83 +1,85 @@
-<h1 align="center">👋 I'm Eng Abdullah</h1>
-<h3 align="center"> Software Engineer | System Architect | Open Source Contributor</h3>
+<!-- Header -->
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:000000,100:3a3a3a&height=180&section=header&text=Abdalla%20Ali&fontSize=48&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Co-Founder%20%26%20CTO%20%40%20TTMCHANGE&descAlignY=58&descSize=16" width="100%" />
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=engabdullah-2024&label=Profile%20Views&color=6C63FF&style=for-the-badge&unique=true" alt="Profile Views" />
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=20&pause=1200&color=8B8B8B&center=true&vCenter=true&width=620&lines=Full-stack+developer+from+Mogadishu+%F0%9F%87%B8%F0%9F%87%B4;Building+SaaS+for+East+Africa;Next.js+%C2%B7+TypeScript+%C2%B7+Node.js+%C2%B7+MongoDB;Software+Engineering+student" alt="Typing intro" />
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&color=6C63FF&center=true&vCenter=true&width=600&lines=Architecting+Scalable+Distributed+Systems;Full-Stack+Expert+(MERN+%2B+Next.js);Performance+Optimization+%26+Security;Engineering+High-Impact+Digital+Products" alt="Typing SVG" />
+  <a href="https://abdalla.tech"><img src="https://img.shields.io/badge/abdalla.tech-000000?style=for-the-badge&logo=googlechrome&logoColor=white" /></a>
+  <a href="mailto:engabdullah@gmail.com"><img src="https://img.shields.io/badge/Email-000000?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+  <a href="https://www.linkedin.com/in/engabdullah"><img src="https://img.shields.io/badge/LinkedIn-000000?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+  <img src="https://komarev.com/ghpvc/?username=engabdullah-2024&label=Views&color=000000&style=for-the-badge" />
 </p>
 
 ---
 
-## 👨‍💻 Professional Summary
-- 🏗️ **Architecting** high-traffic, resilient full-stack applications with a focus on scalability.
-- ⚡ **Optimizing** Web Vitals and backend performance to ensure seamless user experiences.
-- 🛠️ **Advocating** for TDD (Test Driven Development), CI/CD pipelines, and SOLID principles.
-- 🤝 **Mentoring** junior developers and contributing to the global developer ecosystem.
+### 🧑🏽‍💻 About me
+
+```ts
+const abdalla = {
+  role:      "Co-Founder & CTO",
+  company:   "TTMCHANGE — SaaS for the East African market",
+  base:      "Mogadishu, Somalia",
+  studying:  "B.Sc. Software Engineering",
+  coding:    "since Grade 11 (MERN bootcamp)",
+  focus:     ["SaaS products", "system design", "clean UI"],
+  learning:  ["AI / ML", "cybersecurity", "cloud & DevOps"],
+};
+```
 
 ---
 
-## 🛠️ Senior Tech Stack
+### 🚀 What I'm building
 
-#### 🏗️ Core Engineering (Frontend & Backend)
-![Next.js](https://img.shields.io/badge/-Next.js-000000?style=for-the-badge&logo=nextdotjs)
-![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?style=for-the-badge&logo=typescript)
-![React](https://img.shields.io/badge/-React_Query-FF4154?style=for-the-badge&logo=reactquery&logoColor=white)
-![Node.js](https://img.shields.io/badge/-Node.js-339933?style=for-the-badge&logo=nodedotjs)
-![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-336791?style=for-the-badge&logo=postgresql)
-![Redis](https://img.shields.io/badge/-Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white)
-![Docker](https://img.shields.io/badge/-Docker-2496ED?style=for-the-badge&logo=docker)
-
-#### 🛡️ Infrastructure & DevTools
-![AWS](https://img.shields.io/badge/-AWS-232F3E?style=for-the-badge&logo=amazon-aws)
-![GitHub Actions](https://img.shields.io/badge/-CI/CD-2088FF?style=for-the-badge&logo=github-actions&logoColor=white)
-![Jest](https://img.shields.io/badge/-Jest-C21325?style=for-the-badge&logo=jest)
-![Prisma](https://img.shields.io/badge/-Prisma-2D3748?style=for-the-badge&logo=prisma)
-![TailwindCSS](https://img.shields.io/badge/-TailwindCSS-38B2AC?style=for-the-badge&logo=tailwind-css)
+| Product | What it does | Status |
+|---|---|---|
+| **TableTap** | QR-code ordering for restaurants & cafés | 🟢 Live with first client |
+| **Nidaamiye** | Multi-tenant school management SaaS | 🛠️ In development |
+| **DaryeelCare** | Hospital management system | 🛠️ In development |
+| **Tacliin Online** | Matches students with Islamic-studies teachers | 🛠️ In development |
+| **Cevora** | CV / resume builder | 🎨 Design phase |
 
 ---
 
-## 📚 Currently Mastering
-- 🌐 **Microservices Architecture** and Event-Driven Design.
-- ⚙️ **Cloud Infrastructure** (Terraform, Kubernetes, and Serverless).
-- 🔐 **Advanced Security** (OAuth2, OpenID Connect, and Penetration Testing).
-- 📈 **System Design** for millions of concurrent users.
-
----
-
-## 🤝 Leadership & Collaboration
-- **Code Reviews:** Enforcing high standards through meticulous PR reviews.
-- **System Design:** Consulting on database schema design and API versioning.
-- **Open Source:** Actively contributing to the frameworks that power the web.
-
----
-
-## 📫 Let's Talk Business
-<p align="left">
-  <a href="mailto:engabdullah@gmail.com"><img src="https://img.shields.io/badge/-Email-D14836?style=flat-square&logo=Gmail&logoColor=white" /></a>
-  <a href="https://www.linkedin.com/in/engabdullah"><img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=flat-square&logo=Linkedin&logoColor=white" /></a>
-  <a href="https://github.com/engabdullah-2024"><img src="https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github&logoColor=white" /></a>
-</p>
-
----
-
-## 📊 Engineering Impact
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=engabdullah-2024&show_icons=true&theme=radical&rank_icon=github" width="48%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=engabdullah-2024&layout=compact&theme=radical" width="48%" />
-</p>
-
----
-
-## ⚡ Beyond the Code
-- 💡 I believe that technical debt is a choice, not an inevitability.
-- 🎙️ I enjoy discussing tech trends and the future of AI in software engineering.
-- 🏔️ Off-screen, I’m likely exploring the outdoors or dissecting a complex problem.
-
----
+### 🛠️ Tech stack
 
 <p align="center">
-  <i>✨ Building the future, one commit at a time. 🚀</i>
+  <img src="https://skillicons.dev/icons?i=nextjs,react,ts,js,tailwind,nodejs,express,mongodb,postgres,prisma,supabase&perline=11" />
+  <br/>
+  <img src="https://skillicons.dev/icons?i=electron,sqlite,git,github,vercel,docker,figma,vscode,linux&perline=9" />
 </p>
+
+---
+
+### 📈 Contributions · 2024 → today
+
+<p align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://streak-stats.demolab.com?user=engabdullah-2024&starting_year=2024&theme=dark&hide_border=true&background=0D1117&ring=FFFFFF&fire=FFFFFF&currStreakLabel=FFFFFF" />
+    <img src="https://streak-stats.demolab.com?user=engabdullah-2024&starting_year=2024&theme=default&hide_border=true&ring=000000&fire=000000&currStreakLabel=000000" alt="Total contributions since 2024" />
+  </picture>
+</p>
+
+<p align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api?username=engabdullah-2024&show_icons=true&include_all_commits=true&count_private=true&hide_border=true&theme=dark&bg_color=0D1117&icon_color=FFFFFF&title_color=FFFFFF" />
+    <img height="170" src="https://github-readme-stats.vercel.app/api?username=engabdullah-2024&show_icons=true&include_all_commits=true&count_private=true&hide_border=true&icon_color=000000&title_color=000000" />
+  </picture>
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=engabdullah-2024&layout=compact&hide_border=true&theme=dark&bg_color=0D1117&title_color=FFFFFF" />
+    <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=engabdullah-2024&layout=compact&hide_border=true&title_color=000000" />
+  </picture>
+</p>
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=engabdullah-2024&bg_color=0D1117&color=FFFFFF&line=8B8B8B&point=FFFFFF&area=true&hide_border=true" width="100%" />
+</p>
+
+---
+
+### 🎯 Goal
+
+> Become one of Somalia's top engineers — and help push the country forward in **AI, machine learning and cybersecurity**.
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:3a3a3a,100:000000&height=100&section=footer" width="100%" />
