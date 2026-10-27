@@ -122,10 +122,13 @@
   <img src="https://img.shields.io/badge/Total_2024%E2%80%932026-1%2C233_contributions-000000?style=for-the-badge&labelColor=333333" />
 </p>
 
+<h3 align="center">🏅 My GitHub Grade</h3>
+<p align="center"><sub>Calculated with the same public formula for every developer: this year's commits, pull requests, code reviews, issues, stars and followers. No private or all-time boosts.</sub></p>
+
 <p align="center">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api?username=engabdullah-2024&show_icons=true&include_all_commits=true&count_private=true&hide_border=true&theme=dark&bg_color=0D1117&icon_color=FFFFFF&title_color=FFFFFF" />
-    <img height="170" src="https://github-readme-stats.vercel.app/api?username=engabdullah-2024&show_icons=true&include_all_commits=true&count_private=true&hide_border=true&icon_color=000000&title_color=000000" />
+    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api?username=engabdullah-2024&show_icons=true&hide_border=true&theme=dark&bg_color=0D1117&icon_color=FFFFFF&title_color=FFFFFF" />
+    <img height="170" src="https://github-readme-stats.vercel.app/api?username=engabdullah-2024&show_icons=true&hide_border=true&icon_color=000000&title_color=000000" />
   </picture>
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=engabdullah-2024&layout=compact&hide_border=true&theme=dark&bg_color=0D1117&title_color=FFFFFF" />
