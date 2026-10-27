@@ -40,7 +40,7 @@
     <!-- ───────── TTMCHANGE ───────── -->
     <td width="50%" valign="top">
       <a href="https://ttmc.website">
-        <img src="https://api.microlink.io/?url=https://ttmc.website&screenshot=true&meta=false&embed=screenshot.url&viewport.width=1440&viewport.height=900&waitForTimeout=3000" alt="TTMCHANGE website" width="100%" />
+        <img src="https://api.microlink.io/?url=https://ttmc.website&screenshot=true&meta=false&embed=screenshot.url" alt="TTMCHANGE website" width="100%" />
       </a>
       <h3>🏢 TTMCHANGE</h3>
       <img src="https://img.shields.io/badge/Our_Company-000000?style=flat-square" />
@@ -51,7 +51,7 @@
     <!-- ───────── abdalla.blog ───────── -->
     <td width="50%" valign="top">
       <a href="https://abdalla.blog">
-        <img src="https://api.microlink.io/?url=https://abdalla.blog&screenshot=true&meta=false&embed=screenshot.url&viewport.width=1440&viewport.height=900&waitForTimeout=3000" alt="abdalla.blog" width="100%" />
+        <img src="https://api.microlink.io/?url=https://abdalla.blog&screenshot=true&meta=false&embed=screenshot.url" alt="abdalla.blog" width="100%" />
       </a>
       <h3>✍🏽 abdalla.blog</h3>
       <img src="https://img.shields.io/badge/Personal-000000?style=flat-square" />
@@ -64,7 +64,7 @@
     <!-- ───────── Tacliin Online ───────── -->
     <td width="50%" valign="top">
       <a href="https://tacliinonline.com">
-        <img src="https://api.microlink.io/?url=https://tacliinonline.com&screenshot=true&meta=false&embed=screenshot.url&viewport.width=1440&viewport.height=900&waitForTimeout=3000" alt="Tacliin Online" width="100%" />
+        <img src="https://api.microlink.io/?url=https://tacliinonline.com&screenshot=true&meta=false&embed=screenshot.url" alt="Tacliin Online" width="100%" />
       </a>
       <h3>📖 Tacliin Online</h3>
       <img src="https://img.shields.io/badge/Client-000000?style=flat-square" />
@@ -76,7 +76,7 @@
     <!-- ───────── RTVTI ───────── -->
     <td width="50%" valign="top">
       <a href="https://ruweyda.org">
-        <img src="https://api.microlink.io/?url=https://ruweyda.org&screenshot=true&meta=false&embed=screenshot.url&viewport.width=1440&viewport.height=900&waitForTimeout=3000" alt="Ruweyda Technical Vocational Training Institute" width="100%" />
+        <img src="https://api.microlink.io/?url=https://ruweyda.org&screenshot=true&meta=false&embed=screenshot.url" alt="Ruweyda Technical Vocational Training Institute" width="100%" />
       </a>
       <h3>👩🏽‍🎓 Ruweyda Institute (RTVTI)</h3>
       <img src="https://img.shields.io/badge/Client-000000?style=flat-square" />
